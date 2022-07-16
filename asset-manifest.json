@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://abhaygupta12.github.io/csb-prugi/static/css/main.22dfe79e.chunk.css",
+    "main.js": "https://abhaygupta12.github.io/csb-prugi/static/js/main.b8ad8f51.chunk.js",
+    "main.js.map": "https://abhaygupta12.github.io/csb-prugi/static/js/main.b8ad8f51.chunk.js.map",
+    "runtime-main.js": "https://abhaygupta12.github.io/csb-prugi/static/js/runtime-main.b88e0bcc.js",
+    "runtime-main.js.map": "https://abhaygupta12.github.io/csb-prugi/static/js/runtime-main.b88e0bcc.js.map",
+    "static/js/2.390d85be.chunk.js": "https://abhaygupta12.github.io/csb-prugi/static/js/2.390d85be.chunk.js",
+    "static/js/2.390d85be.chunk.js.map": "https://abhaygupta12.github.io/csb-prugi/static/js/2.390d85be.chunk.js.map",
+    "index.html": "https://abhaygupta12.github.io/csb-prugi/index.html",
+    "static/css/main.22dfe79e.chunk.css.map": "https://abhaygupta12.github.io/csb-prugi/static/css/main.22dfe79e.chunk.css.map",
+    "static/js/2.390d85be.chunk.js.LICENSE.txt": "https://abhaygupta12.github.io/csb-prugi/static/js/2.390d85be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b88e0bcc.js",
+    "static/js/2.390d85be.chunk.js",
+    "static/css/main.22dfe79e.chunk.css",
+    "static/js/main.b8ad8f51.chunk.js"
+  ]
+}
